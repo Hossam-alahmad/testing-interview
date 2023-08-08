@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Poppine";
+    src: url("assets/fonts/Poppins-Medium.ttf");
+}
+@tailwind base;
+@layer base {
+    :root {
+        /* dark theme */
+        --primary-color: #5171d8;
+        --secondary-color: white;
+        --third-color: #ddd;
+        --forth-color: #f3f3f3;
+        --success-color: #4caf50;
+        --danger-color: #b51408;
+        --warning-color: #df5428;
+        --text-color: #1b191d;
+    }
+    body {
+        @apply text-text-color bg-third-color;
+        font-family: "Poppine", Arial, Helvetica, sans-serif;
+    }
+}
+@tailwind components;
+@tailwind utilities;

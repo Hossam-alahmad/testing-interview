@@ -1,0 +1,414 @@
+[
+    {
+        "_id": "64d209486bca4b4c85cc16cb",
+        "name": "Service",
+        "list-lv1": [
+            {
+                "name": "Business services",
+                "_id": "64d209486bca4b4c85cc16cc",
+                "list-lv2": []
+            },
+            {
+                "name": "Engineering",
+                "_id": "64d209486bca4b4c85cc16cd",
+                "list-lv2": []
+            },
+            {
+                "name": "Information Technology and Telecommunications",
+                "list-lv2": [
+                    {
+                        "name": "Data processing, Web portals, E-marketing",
+                        "_id": "64d209486bca4b4c85cc16cf",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Programming, Consultancy",
+                        "_id": "64d209486bca4b4c85cc16d0",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Software, Hardware",
+                        "_id": "64d209486bca4b4c85cc16d1",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Telecommunications",
+                        "_id": "64d209486bca4b4c85cc16d2",
+                        "list-lv3": []
+                    }
+                ],
+                "_id": "64d209486bca4b4c85cc16ce"
+            },
+            {
+                "name": "Tourism",
+                "_id": "64d209486bca4b4c85cc16d3",
+                "list-lv2": []
+            },
+            {
+                "name": "Translation services",
+                "_id": "64d209486bca4b4c85cc16d4",
+                "list-lv2": []
+            },
+            {
+                "name": "Transport and Logistics",
+                "list-lv2": [
+                    {
+                        "name": "Air",
+                        "_id": "64d209486bca4b4c85cc16d6",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Rail",
+                        "_id": "64d209486bca4b4c85cc16d7",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Road",
+                        "_id": "64d209486bca4b4c85cc16d8",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Water",
+                        "_id": "64d209486bca4b4c85cc16d9",
+                        "list-lv3": []
+                    }
+                ],
+                "_id": "64d209486bca4b4c85cc16d5"
+            }
+        ],
+        "__v": 0
+    },
+    {
+        "_id": "64d209486bca4b4c85cc1689",
+        "name": "Manufacturing",
+        "list-lv1": [
+            {
+                "name": "Construction materials",
+                "_id": "64d209486bca4b4c85cc168a",
+                "list-lv2": []
+            },
+            {
+                "name": "Electronics and Optics",
+                "_id": "64d209486bca4b4c85cc168b",
+                "list-lv2": []
+            },
+            {
+                "name": "Food and Beverage",
+                "list-lv2": [
+                    {
+                        "name": "Bakery confectionery products",
+                        "_id": "64d209486bca4b4c85cc168d",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Beverages",
+                        "_id": "64d209486bca4b4c85cc168e",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Fish fish products",
+                        "_id": "64d209486bca4b4c85cc168f",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Meat meat products",
+                        "_id": "64d209486bca4b4c85cc1690",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Milk dairy products",
+                        "_id": "64d209486bca4b4c85cc1691",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Other",
+                        "_id": "64d209486bca4b4c85cc1692",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Sweets snack food",
+                        "_id": "64d209486bca4b4c85cc1693",
+                        "list-lv3": []
+                    }
+                ],
+                "_id": "64d209486bca4b4c85cc168c"
+            },
+            {
+                "name": "Furniture",
+                "list-lv2": [
+                    {
+                        "name": "Bathroom",
+                        "_id": "64d209486bca4b4c85cc1695",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Bedroom",
+                        "_id": "64d209486bca4b4c85cc1696",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Childrenâ€™s room",
+                        "_id": "64d209486bca4b4c85cc1697",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Kitchen",
+                        "_id": "64d209486bca4b4c85cc1698",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Living room",
+                        "_id": "64d209486bca4b4c85cc1699",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Office",
+                        "_id": "64d209486bca4b4c85cc169a",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Other (Furniture)",
+                        "_id": "64d209486bca4b4c85cc169b",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Outdoor",
+                        "_id": "64d209486bca4b4c85cc169c",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Project furniture",
+                        "_id": "64d209486bca4b4c85cc169d",
+                        "list-lv3": []
+                    }
+                ],
+                "_id": "64d209486bca4b4c85cc1694"
+            },
+            {
+                "name": "Machinery",
+                "list-lv2": [
+                    {
+                        "name": "Machinery components",
+                        "_id": "64d209486bca4b4c85cc169f",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Machinery equipment/tools",
+                        "_id": "64d209486bca4b4c85cc16a0",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Manufacture of machinery",
+                        "_id": "64d209486bca4b4c85cc16a1",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Maritime",
+                        "list-lv3": [
+                            {
+                                "name": "Aluminium and steel workboats",
+                                "_id": "64d209486bca4b4c85cc16a3"
+                            },
+                            {
+                                "name": "Boat/Yacht building",
+                                "_id": "64d209486bca4b4c85cc16a4"
+                            },
+                            {
+                                "name": "Ship repair and conversion",
+                                "_id": "64d209486bca4b4c85cc16a5"
+                            },
+                            {
+                                "name": "Bathroom",
+                                "_id": "64d209486bca4b4c85cc16a6"
+                            },
+                            {
+                                "name": "Bedroom",
+                                "_id": "64d209486bca4b4c85cc16a7"
+                            }
+                        ],
+                        "_id": "64d209486bca4b4c85cc16a2"
+                    },
+                    {
+                        "name": "Metal structures",
+                        "_id": "64d209486bca4b4c85cc16a8",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Other",
+                        "_id": "64d209486bca4b4c85cc16a9",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Repair and maintenance service",
+                        "_id": "64d209486bca4b4c85cc16aa",
+                        "list-lv3": []
+                    }
+                ],
+                "_id": "64d209486bca4b4c85cc169e"
+            },
+            {
+                "name": "Metalworking",
+                "list-lv2": [
+                    {
+                        "name": "Construction of metal structures",
+                        "_id": "64d209486bca4b4c85cc16ac",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Houses and buildings",
+                        "_id": "64d209486bca4b4c85cc16ad",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Metal products",
+                        "_id": "64d209486bca4b4c85cc16ae",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Metal works",
+                        "list-lv3": [
+                            {
+                                "name": "CNC-machining",
+                                "_id": "64d209486bca4b4c85cc16b0"
+                            },
+                            {
+                                "name": "Forgings, Fasteners",
+                                "_id": "64d209486bca4b4c85cc16b1"
+                            },
+                            {
+                                "name": "Gas, Plasma, Laser cutting",
+                                "_id": "64d209486bca4b4c85cc16b2"
+                            },
+                            {
+                                "name": "MIG, TIG, Aluminum welding",
+                                "_id": "64d209486bca4b4c85cc16b3"
+                            }
+                        ],
+                        "_id": "64d209486bca4b4c85cc16af"
+                    }
+                ],
+                "_id": "64d209486bca4b4c85cc16ab"
+            },
+            {
+                "name": "Plastic and Rubber",
+                "list-lv2": [
+                    {
+                        "name": "Packaging",
+                        "_id": "64d209486bca4b4c85cc16b5",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Plastic goods",
+                        "_id": "64d209486bca4b4c85cc16b6",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Plastic processing technology",
+                        "list-lv3": [
+                            {
+                                "name": "Blowing",
+                                "_id": "64d209486bca4b4c85cc16b8"
+                            },
+                            {
+                                "name": "Moulding",
+                                "_id": "64d209486bca4b4c85cc16b9"
+                            },
+                            {
+                                "name": "Plastics welding and processing",
+                                "_id": "64d209486bca4b4c85cc16ba"
+                            }
+                        ],
+                        "_id": "64d209486bca4b4c85cc16b7"
+                    },
+                    {
+                        "name": "Plastic profiles",
+                        "_id": "64d209486bca4b4c85cc16bb",
+                        "list-lv3": []
+                    }
+                ],
+                "_id": "64d209486bca4b4c85cc16b4"
+            },
+            {
+                "name": "Printing",
+                "list-lv2": [
+                    {
+                        "name": "Advertising",
+                        "_id": "64d209486bca4b4c85cc16bd",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Book/Periodicals printing",
+                        "_id": "64d209486bca4b4c85cc16be",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Labelling and packaging printing",
+                        "_id": "64d209486bca4b4c85cc16bf",
+                        "list-lv3": []
+                    }
+                ],
+                "_id": "64d209486bca4b4c85cc16bc"
+            },
+            {
+                "name": "Textile and Clothing",
+                "list-lv2": [
+                    {
+                        "name": "Clothing",
+                        "_id": "64d209486bca4b4c85cc16c1",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Textile",
+                        "_id": "64d209486bca4b4c85cc16c2",
+                        "list-lv3": []
+                    }
+                ],
+                "_id": "64d209486bca4b4c85cc16c0"
+            },
+            {
+                "name": "Wood",
+                "list-lv2": [
+                    {
+                        "name": "Other (Wood)",
+                        "_id": "64d209486bca4b4c85cc16c4",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Wooden building materials",
+                        "_id": "64d209486bca4b4c85cc16c5",
+                        "list-lv3": []
+                    },
+                    {
+                        "name": "Wooden houses",
+                        "_id": "64d209486bca4b4c85cc16c6",
+                        "list-lv3": []
+                    }
+                ],
+                "_id": "64d209486bca4b4c85cc16c3"
+            }
+        ],
+        "__v": 0
+    },
+    {
+        "_id": "64d209486bca4b4c85cc16c7",
+        "name": "Other",
+        "list-lv1": [
+            {
+                "name": "Creative industries",
+                "_id": "64d209486bca4b4c85cc16c8",
+                "list-lv2": []
+            },
+            {
+                "name": "Energy technology",
+                "_id": "64d209486bca4b4c85cc16c9",
+                "list-lv2": []
+            },
+            {
+                "name": "Environment",
+                "_id": "64d209486bca4b4c85cc16ca",
+                "list-lv2": []
+            }
+        ],
+        "__v": 0
+    }
+]
